@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Beacons scanner</string>
+
+    <string name="ble_not_supported">Bluetooth LE not supported :(</string>
+    <string name="permissions_not_granted">Location permissions not granted :(</string>
+    <string name="ble_not_enabled">Bluetooth not enabled :(</string>
+
+    <string name="see_logcat_for_ble_advertisements">See Logcat for BLE advertisements.</string>
+
+</resources>
